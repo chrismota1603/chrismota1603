@@ -16,7 +16,7 @@ Meu primeiro contato com Github
 - 👯 Procuro aprender cada dia mais sobre esse mundo da Programação
 - 🤔 Procuro ajuda de todos Devs, para aprimorar meus conhecimentos.
 - 💬 Gosto de estudar...e estou maravilhada com esse mundo Dev
-- 📫 Pode me contatar por email: cristinadamasceno789@hotmail.com ou wthasaap (99)992273305.
+- 📫 Pode me contatar por email: cristinadamasceno1979@gmail.com ou wthasaap (99)992273305.
 - ⚡ Fun fact: ... depois de muito apanhar...decidi ir para outros meios e creio que tenho tudo para crescer nessa area dev.
   
 
